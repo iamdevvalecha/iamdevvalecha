@@ -54,6 +54,5 @@
 
 
 ### Github stats:
-[![Dev's github stats](https://github-readme-stats.vercel.app/api?username=iamdevvalecha)](https://github.com/anuraghazra/github-readme-stats)
-![Dev's github stats](https://github-readme-stats.vercel.app/api?username=iamdevvalecha&show_icons=true)
+
 ![Dev's github stats](https://github-readme-stats.vercel.app/api?username=iamdevvalecha&show_icons=true&theme=radical)
