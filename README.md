@@ -1,6 +1,4 @@
 
-[![image](https://ibb.co/b2k7qXg)
-
 ### Hi there 👋 IAM DEV VALECHA
 
 - 🔭 I’m currently working on ... WEB DEVLOPMENT
