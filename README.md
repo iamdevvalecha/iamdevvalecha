@@ -3,9 +3,6 @@
 
 
 ## I'm a Student and Developer !!
-# line of code
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-4124786%20Lines%20of%20code-blue)
 
 - 🔭 I’m currently working on ...myskills
 - 🌱 I’m currently learning everything 🤣
@@ -14,6 +11,8 @@
 - 🥅 Goals: Contribute more to Open Source projects.
 - 😄 Pronouns: ...HE/HIM.
 - ⚡ Fun fact: I am half done 😄
+
+<img src="https://github-profile-trophy.vercel.app/?username=iamdevvalecha&column=3&margin-w=15&margin-h=15 (https://github.com/ryo-ma/github-profile-trophy)">
 
 
 ### Spotify Playing 🎧
