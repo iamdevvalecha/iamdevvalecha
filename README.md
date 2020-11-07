@@ -12,7 +12,6 @@
 - 😄 Pronouns: ...HE/HIM.
 - ⚡ Fun fact: I am half done 😄
 
-<img src="https://github-profile-trophy.vercel.app/?username=iamdevvalecha&column=3&margin-w=15&margin-h=15 (https://github.com/ryo-ma/github-profile-trophy)">
 
 
 ### Spotify Playing 🎧
@@ -58,3 +57,5 @@
 ### Github stats:
 
 ![Dev's github stats](https://github-readme-stats.vercel.app/api?username=iamdevvalecha&show_icons=true&theme=radical)
+# stats
+<img src="https://github-profile-trophy.vercel.app/?username=iamdevvalecha&column=3&margin-w=15&margin-h=15 (https://github.com/ryo-ma/github-profile-trophy)">
