@@ -3,6 +3,9 @@
 
 
 ## I'm a Student and Developer !!
+# line of code
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-4124786%20Lines%20of%20code-blue)
 
 - 🔭 I’m currently working on ...myskills
 - 🌱 I’m currently learning everything 🤣
