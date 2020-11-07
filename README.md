@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on ...myskills
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with something i don't know.
+- 👯 I’m looking to collaborate with something i don't know. 😂
 - 💬 Ask me about ... ANYTHING
 - 🥅 Goals: Contribute more to Open Source projects.
 - 😄 Pronouns: ...HE/HIM.
