@@ -1,9 +1,7 @@
   
 ### Hi there 👋 I DEV VALECHA aka iamdevvalecha.
-<p align="center">
-  <img src="https://www.elitecolumn.com/wp-content/uploads/2017/03/Software-Engineer-Code-Crash.gif" width="100px">
-  <br><br>
-  <samp>
+
+<br><img src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif" width="300px" align="center">
 
 ## I'm a Student and Developer !!
 
@@ -15,12 +13,12 @@
 - 😄 Pronouns: ...HE/HIM.
 - ⚡ Fun fact: I am half done 😄
 
-
+  
 
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
-
+             
 
 ### Connect with me:
 [<img align="left" alt="iamdevvalecha | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
