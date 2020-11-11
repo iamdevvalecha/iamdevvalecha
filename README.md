@@ -1,6 +1,9 @@
   
 ### Hi there 👋 I DEV VALECHA aka iamdevvalecha.
-
+<p align="center">
+  <img src="https://www.elitecolumn.com/wp-content/uploads/2017/03/Software-Engineer-Code-Crash.gif" width="100px">
+  <br><br>
+  <samp>
 
 ## I'm a Student and Developer !!
 
