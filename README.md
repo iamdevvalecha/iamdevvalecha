@@ -34,7 +34,7 @@
 <br />
 
 [twitter]: https://twitter.com/iamdevvalecha
-[instagram]: https://www.instagram.com/iamdevvalecha/
+[instagram]: https://www.instagram.com/iam.devvalecha/
 [linkedin]:https://www.linkedin.com/in/dev-valecha-9655431b3/
 
 
