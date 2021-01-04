@@ -18,7 +18,9 @@
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
-             
+   
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamdevvalecha&layout=compact)](https://github.com/iamdevvalecha/github-readme-stats)
+</br>
 
 ### Connect with me:
 [<img align="left" alt="iamdevvalecha | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -26,9 +28,6 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-
-
-![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
 
 [twitter]: https://twitter.com/iamdevvalecha
 [instagram]: https://www.instagram.com/iamdevvalecha/
