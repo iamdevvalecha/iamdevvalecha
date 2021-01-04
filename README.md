@@ -46,5 +46,6 @@
 <img src="https://github-profile-trophy.vercel.app/?username=iamdevvalecha&column=3&margin-w=15&margin-h=15 (https://github.com/ryo-ma/github-profile-trophy)">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamdevvalecha&layout=compact)](https://github.com/iamdevvalecha/github-readme-stats)
+</br>
 
-
+![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
