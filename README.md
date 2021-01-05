@@ -58,5 +58,3 @@
 <img src="https://github-profile-trophy.vercel.app/?username=iamdevvalecha&column=3&margin-w=15&margin-h=15 (https://github.com/ryo-ma/github-profile-trophy)">
 
 </br>
-![Dev's github stats](https://github-readme-stats.vercel.app/api?username=iamdevvalecha&show_icons=true&hide_border=true&theme=onedark) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamdevvalecha&layout=compact&theme=onedark)
