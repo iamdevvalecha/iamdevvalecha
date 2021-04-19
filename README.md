@@ -29,12 +29,7 @@
 <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png"></code>
   
 
-### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
-   
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamdevvalecha&layout=compact)](https://github.com/iamdevvalecha/github-readme-stats)
-</br>
 
 ### Connect with me:
 [<img align="left" alt="iamdevvalecha | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
