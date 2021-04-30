@@ -34,9 +34,10 @@
 ### Connect with me:
 [![iamdevvalecha | Twitter][twitter-image]][twitter-link] &nbsp; &nbsp;
 [![iamdevvalecha | Instagram][instagram-image]][instagram-link] &nbsp; &nbsp;
-[![iamdevvalecha | LinkedIn][linkedin-image]][linkedin-link] &nbsp; &nbsp;
+[![iamdevvalecha | LinkedIn][linkedin-image]][linkedin-link]
 
-<br />
+
+<!-- Variables for Social Media -->
 
 [twitter-image]: https://res.cloudinary.com/neontuts/image/upload/c_scale,w_24/v1615091228/GitHub%20ReadMe/twitter_skdfew.png
 [instagram-image]: https://res.cloudinary.com/neontuts/image/upload/c_scale,w_24/v1615091228/GitHub%20ReadMe/instagram_hjwtbt.png
@@ -46,5 +47,3 @@
 [instagram-link]: https://www.instagram.com/iamdevvalecha/
 [linkedin-link]:https://www.linkedin.com/in/iamdevvalecha/
 
-
-</br>
