@@ -32,15 +32,18 @@
 
 
 ### Connect with me:
-[<img align="left" alt="iamdevvalecha | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
-[twitter]: https://twitter.com/iamdevvalecha
-[instagram]: https://www.instagram.com/iamdevvalecha/
-[linkedin]:https://www.linkedin.com/in/dev-valecha-9655431b3/
+[![iamdevvalecha | Twitter][twitter-image]][twitter-link] &nbsp; &nbsp;
+[![iamdevvalecha | Instagram][instagram-image]][instagram-link] &nbsp; &nbsp;
+[![iamdevvalecha | LinkedIn][linkedin-image]][linkedin-link]
 
 
-</br>
+<!-- Variables for Social Media -->
+
+[twitter-image]: https://res.cloudinary.com/neontuts/image/upload/c_scale,w_24/v1615091228/GitHub%20ReadMe/twitter_skdfew.png
+[instagram-image]: https://res.cloudinary.com/neontuts/image/upload/c_scale,w_24/v1615091228/GitHub%20ReadMe/instagram_hjwtbt.png
+[linkedin-image]: https://res.cloudinary.com/neontuts/image/upload/c_scale,w_24/v1615091227/GitHub%20ReadMe/linkedin_elee1c.png
+
+[twitter-link]: https://twitter.com/iamdevvalecha
+[instagram-link]: https://www.instagram.com/iamdevvalecha/
+[linkedin-link]:https://www.linkedin.com/in/iamdevvalecha/
+
