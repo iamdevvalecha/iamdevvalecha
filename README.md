@@ -1,9 +1,7 @@
   
-### Hi there 👋 I DEV VALECHA aka iamdevvalecha.
+## Hi there 👋 I DEV VALECHA aka iamdevvalecha.
 
-<br><img src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif" width="300px" align="center">
-
-## I'm a Student and Developer !!
+### I'm a Student and Developer !!
 
 - 🔭 I’m currently working on ...myskills
 - 🌱 I’m currently learning everything 🤣
